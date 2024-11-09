@@ -58,10 +58,12 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-yellow?style=flat-square)
 
+![FoxphoriaAiArtGIF](https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56)
+
 
 
 ## 💻 Languages & Tools
-<div>
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
@@ -77,14 +79,21 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 </div>
 
 
+
+
+
 ## 🎮 Game Development
-<div>
+<div align="left">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="30" alt="godot logo"  />
   <img width="12" />
+</div>
+
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/60870e41-900e-4423-9f96-bda934c8efd6" />
 </div>
 
 ## 🌐 Web Development
