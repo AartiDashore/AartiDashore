@@ -32,8 +32,15 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 - ⚡ Fun fact: I have a passion for creating **interactive learning platforms** using gamification.
 
 ---
+![LetsPartySnoopGIF](https://github.com/user-attachments/assets/534e933d-27da-4c5f-82d4-37da6974d6b6)
 
-## 🧰 Technologies & Tools
+<div align="center">
+  ![](https://github.com/user-attachments/assets/f410d9f2-ff4e-4cc5-9aef-441ed6e23014)
+
+</div>
+
+
+## 🧰⚙️ Technologies & Tools
 
 ![Languages](https://img.shields.io/badge/-Languages-blue?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square)
