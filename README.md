@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 # Hello World! Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-Hi there! I'm Aarti, a passionate software developer, open-source contributor, and technology enthusiast. I specialize in **Web Development**, **Machine Learning**, and **Cloud Computing**. Welcome to my GitHub profile, where I share my personal and open-source projects. Feel free to explore, fork, and contribute!
-
 
 
 ## 🚀 About Me
+
+Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software developer, open-source contributor, Graphic designer, Game developer and technology enthusiast. I specialize in **Web Development**, **Machine Learning**, and **Cloud Computing**. Welcome to my GitHub profile, where I share my personal and open-source projects. A Curious Learner who uses creative solutions to solve puzzles & thrives in collaborative environment. Feel free to explore, fork, and contribute!
 
 - 🔭 I’m currently working on: Building scalable web apps with **React** and **Node.js**
 - 🌱 I’m learning: **TensorFlow**, **GraphQL**, and **DevOps** practices
@@ -47,37 +47,7 @@ Hi there! I'm Aarti, a passionate software developer, open-source contributor, a
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-yellow?style=flat-square)
 
----
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AartiDashore&count_private=true&show_icons=true&hide=prs&hide_title=true&theme=radical)
-
----
-
-## 🧑‍💻 My Latest Projects
-
-### 1. [Project Name 1](https://github.com/your-github-username/project1)
-   - **Description**: A web app that helps users track their personal finance.
-   - **Tech Stack**: React, Node.js, MongoDB, AWS
-   - ⭐ **Stars**: 150
-   - 📋 **Languages Used**: JavaScript, CSS, HTML
-   - 🔗 **Demo**: [Link to Live Demo](https://link-to-live-demo.com)
-
-### 2. [Project Name 2](https://github.com/your-github-username/project2)
-   - **Description**: A machine learning model to predict housing prices based on various features.
-   - **Tech Stack**: Python, Pandas, Scikit-Learn
-   - ⭐ **Stars**: 80
-   - 📋 **Languages Used**: Python, Jupyter Notebooks
-   - 🔗 **Demo**: [Link to Demo](https://link-to-demo.com)
-
----
-
-## 📊 My Contribution Graph
-
-![My Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=AartiDashore&theme=github)
-
----
 
 ## 📍 Connect with Me
 
@@ -88,17 +58,29 @@ You can reach out to me via the following channels:
 - 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/aartidashore)
 - 🌐 Website/Portfolio: [Your Portfolio](https://yourportfolio.com)
 
+
+## 📍 Connect with Me
+
+You can reach out to me via the following channels:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+</div>
+
+
+
+
+
+
 ---
 
-## 👾 Open-Source Contributions
-
-I believe in the power of **open-source** software, and I’ve contributed to several projects. Here are a few:
-
-- [Contribution 1](https://github.com/opensource/repository1): Description of your contribution.
-- [Contribution 2](https://github.com/opensource/repository2): Description of your contribution.
-- [Contribution 3](https://github.com/opensource/repository3): Description of your contribution.
-
----
 
 ## 🎯 Current Learning Goals
 
@@ -109,11 +91,6 @@ I believe in the power of **open-source** software, and I’ve contributed to se
 
 ---
 
-## 🏆 GitHub Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dark)
-
----
 
 ## 💬 Fun & Random Stuff
 
@@ -158,18 +135,6 @@ I believe in the power of **open-source** software, and I’ve contributed to se
 <h2 align="left">Hello World 👋! I am RT and I'm a ..., from Seattle, Washington.</h2>
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-</div>
 
 ###
 
@@ -295,8 +260,9 @@ I believe in the power of **open-source** software, and I’ve contributed to se
 
 <img src="https://raw.githubusercontent.com/AartiDashore/AartiDashore/output/snake.svg" alt="Snake animation" />
 
-###
-
-<p align="left">About Me:<br>I am Aarti (RT), from Seattle, Washington. I am a software developer, web designer, Graphic designer and Game developer.<br><br>A Curious Learner who creative solutions to solve puzzles & thrives in collaborative environment. Feel free to connect with me and contribute to my respositories.</p>
 
 ###
+
+<div align="center">
+   <img src="https://profile-counter.glitch.me/AartiDashore/count.svg?" />
+</div>
