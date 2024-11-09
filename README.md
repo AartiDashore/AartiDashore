@@ -32,12 +32,13 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 - ⚡ Fun fact: I have a passion for creating **interactive learning platforms** using gamification.
 
 ---
-![LetsPartySnoopGIF](https://github.com/user-attachments/assets/534e933d-27da-4c5f-82d4-37da6974d6b6)
 
-<div align="center">
-  ![](https://github.com/user-attachments/assets/f410d9f2-ff4e-4cc5-9aef-441ed6e23014)
+![FoxphoriaAiGIF](https://github.com/user-attachments/assets/60870e41-900e-4423-9f96-bda934c8efd6)
 
-</div>
+![FoxphoriaAiArtGIF](https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56)
+![FoxphoriaAiGIF (2)](https://github.com/user-attachments/assets/7699c25c-375c-4c95-8a9c-b22213dcdbe5)
+
+
 
 
 ## 🧰⚙️ Technologies & Tools
