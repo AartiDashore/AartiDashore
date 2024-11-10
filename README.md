@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hello World! I'm </b><a href="https://AartiDashore.github.io/">RT</a> Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 
-✨About Me✨
+### ✨About Me✨
   Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a graduate **Masters** student majoring in **Computer Science with Data Science specialization** at Seattle University. I'm a passionate software developer, open-source contributor, Graphic designer, Game developer and technology enthusiast. I specialize in **Web Development**, **Machine Learning**, and **Cloud Computing**. Feel free to explore, fork, and contribute!
   
   - 🔭 I’m currently working on: Building scalable web apps with **React** and **Node.js**
