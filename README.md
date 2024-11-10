@@ -218,7 +218,7 @@ You can reach out to me via the following channels:
   <img src="https://github-readme-stats.vercel.app/api?username=AartiDashore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=maroongold&locale=en&hide_border=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AartiDashore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=maroongold&hide_border=true" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AartiDashore&locale=en&mode=weekly&theme=maroongold&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" height="140" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AartiDashore&theme=elegant&area=true&hide_border=true&radius=20" height="140" alt="activity-graph graph"  />
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=AartiDashore&theme=elegant&area=true&hide_border=true&radius=20" height="140" alt="activity-graph graph"  /> -->
   <img src="https://github-profile-trophy.vercel.app?username=AartiDashore&column=2&row=1&margin-h=0&margin-w=4&no-frame=true&no-bg=true&theme=juicyfresh" height="150" alt="trophy graph"  />
 </div>
 
