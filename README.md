@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ✨About Me✨
-  Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a graduate **Masters** student majoring in **Computer Science with Data Science specialization** at Seattle University. I'm a passionate software developer, open-source contributor, Graphic designer, Game developer and technology enthusiast. I specialize in **Web Development**, **Machine Learning**, and **Cloud Computing**. Welcome to my GitHub profile, where I share my personal and open-source projects. A Curious Learner who uses creative solutions to solve puzzles & thrives in collaborative environment. Feel free to explore, fork, and contribute!
+  Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a graduate **Masters** student majoring in **Computer Science with Data Science specialization** at Seattle University. I'm a passionate software developer, open-source contributor, Graphic designer, Game developer and technology enthusiast. I specialize in **Web Development**, **Machine Learning**, and **Cloud Computing**. Feel free to explore, fork, and contribute!
   
   - 🔭 I’m currently working on: Building scalable web apps with **React** and **Node.js**
   - 🌱 I’m learning: **TensorFlow**, **GraphQL**, and **DevOps** practices
