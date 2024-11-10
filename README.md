@@ -31,12 +31,10 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 - 💬 Ask me about: **JavaScript**, **Machine Learning**, **Docker**, or **AWS**!
 - ⚡ Fun fact: I have a passion for creating **interactive learning platforms** using gamification.
 
----
+
 <div align="right">
   <img src="https://github.com/user-attachments/assets/60870e41-900e-4423-9f96-bda934c8efd6" />
 </div>
-
-![FoxphoriaAiGIF](https://github.com/user-attachments/assets/60870e41-900e-4423-9f96-bda934c8efd6)
 
 ![FoxphoriaAiArtGIF](https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56)
 ![FoxphoriaAiGIF (2)](https://github.com/user-attachments/assets/7699c25c-375c-4c95-8a9c-b22213dcdbe5)
@@ -44,7 +42,7 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 
 
 
-## 🧰⚙️ Technologies & Tools
+🧰⚙️ Technologies & Tools
 
 ![Languages](https://img.shields.io/badge/-Languages-blue?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square)
@@ -62,7 +60,7 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 
 
 
-## 💻 Languages & Tools
+💻 Languages & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
@@ -82,7 +80,7 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 
 
 
-## 🎮 Game Development
+🎮 Game Development
 <div align="left">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
   <img width="12" />
@@ -93,10 +91,10 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 </div>
 
 <div align="right">
-  <img src="https://github.com/user-attachments/assets/60870e41-900e-4423-9f96-bda934c8efd6" />
+  <img src="https://github.com/user-attachments/assets/60870e41-900e-4423-9f96-bda934c8efd6" size=30"/>
 </div>
 
-## 🌐 Web Development
+🌐 Web Development
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
