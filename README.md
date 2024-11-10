@@ -40,28 +40,10 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56" img align="right">
+  <img src="https://github.com/user-attachments/assets/7699c25c-375c-4c95-8a9c-b22213dcdbe5" img align="right">
 </div>
 
 
-
-
-
-### 🧰⚙️ Technologies & Tools
-
-![Languages](https://img.shields.io/badge/-Languages-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
-![React](https://img.shields.io/badge/React-17.0-blue?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-v16-green?style=flat-square)
-
-![Tools](https://img.shields.io/badge/-Tools-lightgray?style=flat-square)
-
-![AWS](https://img.shields.io/badge/AWS-red?style=flat-square)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-yellow?style=flat-square)
-
-<br>
 
 ### 💻 Languages & Tools
 <div align="left" style="display: flex; flex-direction: column;">
@@ -73,7 +55,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dotnet logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="unrealengine logo"  />
 </div>
-
+<br>
 
 🎮 Game Development
 <div align="left" style="display: flex; flex-direction: column;">
@@ -81,8 +63,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="30" alt="godot logo"  />
 </div>
-
-
+<br>
 
 🌐 Web Development
 <div style="display: flex; flex-direction: column;">
@@ -98,6 +79,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angularjs logo"  />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
 </div>
+<br>
 
 🦾🤖 Ai, ML, DS & Tools
 <div style="display: flex; flex-direction: column;">
@@ -109,6 +91,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="kaggle logo"  />
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo"  />
 </div>
+<br>
 
 ☁️ Cloud Computing
 <div style="display: flex; flex-direction: column;">
@@ -117,6 +100,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white&style=for-the-badge" height="30" alt="google logo"  />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
 </div>
+<br>
 
 📲 Mobile Development
 <div style="display: flex; flex-direction: column;">
@@ -125,19 +109,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  />
 </div>
+<br>
 
 🖼️ Designing and Visualization
 <div style="display: flex; flex-direction: column;">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="photoshop logo"  />
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="30" alt="premierepro logo"  />
-  
   <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="30" alt="inkscape logo"  />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="illustrator logo"  />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
 </div>
-
+<br>
 
 ⚙️ Tools & Technologies
 <div align="left" style="display: flex; flex-direction: column;">
@@ -153,7 +137,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge" height="30" alt="docker logo"  />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 </div>
-
+<br>
 
 📍 Connect with Me
 
@@ -185,10 +169,12 @@ You can reach out to me via the following channels:
 
 
 
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56" img align="right">
+</div>
 
 
-
-## 🎯 Current Learning Goals
+### 🎯 Current Learning Goals
 
 - 📚 **Learn Advanced TensorFlow** for deploying models in production.
 - 📦 **Master Docker** for containerizing applications and improving development workflows.
@@ -198,34 +184,30 @@ You can reach out to me via the following channels:
 
 
 
-## 💬 Fun & Random Stuff
+### 💬 Fun & Random Stuff
 
 - 🎧 I enjoy listening to [Lo-fi Beats](https://www.youtube.com/playlist?list=PLkzpOZtAxi8OHZX9MLqG1PjRjfrJ2vRx7) while coding.
 - 🍕 Pizza is my go-to coding snack.
 - 🌎 I love learning new languages—currently improving my **Spanish**.
-- 👨‍💻 Check out my [Coding Journey Blog](https://yourblog.com) to get insights into my tech journey!
+<!-- - 👨‍💻 Check out my [Coding Journey Blog](https://yourblog.com) to get insights into my tech journey! -->
 
 
-
+<!--
 ## 🔗 Some Useful Links
 
 - [Awesome Projects I've Starred](https://github.com/your-github-username?tab=stars)
 - [My Open-Source Projects](https://github.com/your-github-username?tab=repositories)
 - [My Stack Overflow Profile](https://stackoverflow.com/users/your-user-id/your-profile)
 - [Readme Stats Generator](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
-## 💡 Inspiration
+### 💡 Inspiration
 
 > _“The best way to predict the future is to create it.”_ – Abraham Lincoln
 
 
 
-
-
-
-
-## My Stats
+### My Stats
 
 
 <img align="right" height="600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E3MG8ydHl2N2UxOHR5eDdlYm01djkwbjlvbTdnaHNyMWVqOXAxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/re8uLsFI8WUeRZwT4U/giphy.gif"  />
