@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0467.gif" width="100%" />
 
 # Hello World! I'm </b><a href="https://AartiDashore.github.io/">RT</a> Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
