@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-🧰⚙️ Technologies & Tools
+### 🧰⚙️ Technologies & Tools
 
 ![Languages](https://img.shields.io/badge/-Languages-blue?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square)
@@ -56,21 +56,21 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-v16-green?style=flat-square)
 
 ![Tools](https://img.shields.io/badge/-Tools-lightgray?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square)
+
 ![AWS](https://img.shields.io/badge/AWS-red?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-yellow?style=flat-square)
 
+<br>
 
-
-💻 Languages & Tools
+### 💻 Languages & Tools
 <div align="left" style="display: flex; flex-direction: column;">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   
-  <img src="https://img.shields.io/badge/C-Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="unrealengine logo"  />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
+  <img src="https://img.shields.io/badge/C-Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="c-sharp logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="c++ logo"  />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dotnet logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="unrealengine logo"  />
 </div>
 
@@ -150,6 +150,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge" height="30" alt="docker logo"  />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 </div>
 
