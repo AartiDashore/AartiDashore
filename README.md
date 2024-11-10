@@ -16,30 +16,32 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello World! Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
+# Hello World! I'm </b><a href="https://AartiDashore.github.io/">RT</a> Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 
 ✨About Me✨
-
-Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software developer, open-source contributor, Graphic designer, Game developer and technology enthusiast. I specialize in **Web Development**, **Machine Learning**, and **Cloud Computing**. Welcome to my GitHub profile, where I share my personal and open-source projects. A Curious Learner who uses creative solutions to solve puzzles & thrives in collaborative environment. Feel free to explore, fork, and contribute!
-
-- 🔭 I’m currently working on: Building scalable web apps with **React** and **Node.js**
-- 🌱 I’m learning: **TensorFlow**, **GraphQL**, and **DevOps** practices
-- 👯 I’m looking to collaborate on: **Open-source projects**, **AI** applications, and **cloud infrastructure**
-- 🤔 I’m exploring: **Serverless Architectures** and **Blockchain Technology**
-- 💬 Ask me about: **JavaScript**, **Machine Learning**, **Docker**, or **AWS**!
-- ⚡ Fun fact: I have a passion for creating **interactive learning platforms** using gamification.
+  Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software developer, open-source contributor, Graphic designer, Game developer and technology enthusiast. I specialize in **Web Development**, **Machine Learning**, and **Cloud Computing**. Welcome to my GitHub profile, where I share my personal and open-source projects. A Curious Learner who uses creative solutions to solve puzzles & thrives in collaborative environment. Feel free to explore, fork, and contribute!
+  
+  - 🔭 I’m currently working on: Building scalable web apps with **React** and **Node.js**
+  - 🌱 I’m learning: **TensorFlow**, **GraphQL**, and **DevOps** practices
+  - 👯 I’m looking to collaborate on: **Open-source projects**, **AI** applications, and **cloud infrastructure**
+  - 🤔 I’m exploring: **Serverless Architectures** and **Blockchain Technology**
+  - 💬 Ask me about: **JavaScript**, **Machine Learning**, **Docker**, or **AWS**!
+  - ⚡ Fun fact: I have a passion for creating **interactive learning platforms** using gamification.
 
 <!--
 <div align="right">
   <img src="https://github.com/user-attachments/assets/60870e41-900e-4423-9f96-bda934c8efd6" />
 </div> 
 ![FoxphoriaAiGIF (2)](https://github.com/user-attachments/assets/7699c25c-375c-4c95-8a9c-b22213dcdbe5)
+![FoxphoriaAiArtGIF](https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56)
 
 -->
 
-![FoxphoriaAiArtGIF](https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56)
+
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56" img align="right">
+</div>
 
 
 
@@ -59,23 +61,18 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-yellow?style=flat-square)
 
-![FoxphoriaAiArtGIF](https://github.com/user-attachments/assets/97344694-429f-48ad-98a3-404d78dbbf56)
-
 
 
 💻 Languages & Tools
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge")
+<div align="left" style="display: flex; flex-direction: column;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
   
-  ![](https://img.shields.io/badge/C-Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
-  ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-  ![](https://skillicons.dev/icons?i=java)
+  <img src="https://img.shields.io/badge/C-Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="unrealengine logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="unrealengine logo"  />
 </div>
-
-
-
 
 
 🎮 Game Development
@@ -156,21 +153,17 @@ Hi there! I'm Aarti, from Seattle, Washington, USA. I'm a passionate software de
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 </div>
 
-<div align="right" style="display: flex; flex-direction: column;">
-  <img src="https://github.com/user-attachments/assets/60870e41-900e-4423-9f96-bda934c8efd6" size=30"/>
-</div>
-
 
 📍 Connect with Me
 
 You can reach out to me via the following channels:
 
-- 📧 Email: [your-email@example.com](mailto:aartidashore1@gmail.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/aartidashore)
-- 🌐 Website/Portfolio: [Your Portfolio](https://yourportfolio.com)
+- 📧 <a href="mailto:aartidashore1@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+<!-- - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  -->
+- 🔗 <a href="https://linkedin.com/in/aartidashore"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+<!-- - 🌐 Website/Portfolio: [Your Portfolio](https://yourportfolio.com) -->
 
-
+<!--
 ## 📍 Connect with Me
 
 You can reach out to me via the following channels:
@@ -186,12 +179,12 @@ You can reach out to me via the following channels:
   <a href=""><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  /></a>
 </div>
 
+-->
 
 
 
 
 
----
 
 
 ## 🎯 Current Learning Goals
@@ -201,7 +194,7 @@ You can reach out to me via the following channels:
 - 📈 **Improve Cloud Architectures** with **AWS** services.
 - 🌐 **Contribute to more open-source projects** related to web development.
 
----
+
 
 
 ## 💬 Fun & Random Stuff
@@ -211,7 +204,7 @@ You can reach out to me via the following channels:
 - 🌎 I love learning new languages—currently improving my **Spanish**.
 - 👨‍💻 Check out my [Coding Journey Blog](https://yourblog.com) to get insights into my tech journey!
 
----
+
 
 ## 🔗 Some Useful Links
 
@@ -220,33 +213,19 @@ You can reach out to me via the following channels:
 - [My Stack Overflow Profile](https://stackoverflow.com/users/your-user-id/your-profile)
 - [Readme Stats Generator](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ## 💡 Inspiration
 
 > _“The best way to predict the future is to create it.”_ – Abraham Lincoln
 
----
-
-**Thanks for visiting my profile! Feel free to star my repositories or leave me a message!**
-
----
-
-### How to Customize This Template
-
-1. **Replace Placeholder Text**: Modify the sections with your personal information, project details, and any other content you want to showcase.
-2. **Add Your GitHub Stats**: Replace `your-github-username` with your actual GitHub username in all relevant links and statistics.
-3. **Customize Your Badges**: You can find more badges for languages and tools at [shields.io](https://shields.io/).
-4. **Add More Projects**: Include a section for your best projects and link to live demos or further documentation.
-5. **Update Your Achievements**: Use the [GitHub Trophy](https://github-profile-trophy.vercel.app/) to display your GitHub milestones.
-6. **Interactivity**: Use interactive graphs, like the [activity graph](https://github.com/Ashutosh00710/github-readme-activity-graph) and the [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats), to keep the profile dynamic.
-
----
 
 
 
 
-###
+
+
+## My Stats
+
 
 <img align="right" height="600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E3MG8ydHl2N2UxOHR5eDdlYm01djkwbjlvbTdnaHNyMWVqOXAxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/re8uLsFI8WUeRZwT4U/giphy.gif"  />
 
@@ -272,3 +251,7 @@ You can reach out to me via the following channels:
 <div align="center">
    <img src="https://profile-counter.glitch.me/AartiDashore/count.svg?" />
 </div>
+
+
+
+<div align="center"> Thanks for visiting my profile! Feel free to star my repositories or leave me a message! </div>
