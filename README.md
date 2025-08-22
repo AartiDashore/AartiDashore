@@ -93,9 +93,23 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+👩🏻‍💻💭Random Developer Quote
+<div style="display: flex; flex-direction: column;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="">
+</div>
+  
+
 ☁️ Cloud Computing
 <div style="display: flex; flex-direction: column;">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" height="30" alt="amazonwebservices logo"  />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&amp;logo=apachehive&amp;logoColor=black" height="30" alt="Apache Hive"  />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&amp;logo=apachekafka" height="30" alt="Apache Kafka"  />
+  <img src="https://img.shields.io/badge/Apache%20Spark-FFA500?style=for-the-badge&amp;logo=apachespark&amp;logoColor=black" height="30" alt="Apache Spark"  />
+  <img src="https://img.shields.io/badge/Amazon%20Lambda-FF0000?style=for-the-badge&amp;logo=amazonlambda&amp;logoColor=black" height="30" alt="Amazon Lambda"  />
+  <img src="https://img.shields.io/badge/Amazon%20EC2-E4405F?style=for-the-badge&amp;logo=amazonec2&amp;logoColor=black" height="30" alt="Amazon EC2"  />
+  <img src="https://img.shields.io/badge/Amazon%20EMR Cluster-9146FF?style=for-the-badge&amp;logo=amazonemr&amp;logoColor=black" height="30" alt="Amazon EMR Cluster" />
+  <img src="https://img.shields.io/badge/Amazon%20S3 Bucket-1de9b6?style=for-the-badge&amp;logo=amazons3&amp;logoColor=black" height="30" alt="Amazon S3 Bucket"  />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-EA4C89?style=for-the-badge&amp;logo=amazondynamodb&amp;logoColor=black" height="30" alt="Amazon DynamoDB"   />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo"  />
   <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white&style=for-the-badge" height="30" alt="google logo"  />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
@@ -113,7 +127,8 @@ Here are some ideas to get you started:
 
 🖼️ Designing and Visualization
 <div style="display: flex; flex-direction: column;">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi"   />
+  <img src="https://img.shields.io/badge/Tableau-A2E811?style=for-the-badge&logo=tableau&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="photoshop logo"  />
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="30" alt="premierepro logo"  />
   <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="30" alt="inkscape logo"  />
