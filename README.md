@@ -115,14 +115,24 @@ Here are some ideas to get you started:
 </div>
   
 
-
+📲 Database Management
+<div style="display: flex; flex-direction: column;">
+  <img src="https://img.shields.io/badge/Oracle-3DDC84?logo=oracle&logoColor=black&style=for-the-badge" height="30" alt="oracle logo"  />
+  <img src="https://img.shields.io/badge/MySQL-DC31F7?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-7F52FF?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/Hadoop-F7A156?logo=hadoop&logoColor=white&style=for-the-badge" height="30" alt="hadoop logo"  />
+  <img src="https://img.shields.io/badge/HiveQL-1BF9D1?logo=hiveql&logoColor=white&style=for-the-badge" height="30" alt="hiveql logo"  />
+  <img src="https://img.shields.io/badge/DynamoDB-7A2C18?logo=dynamodb&logoColor=white&style=for-the-badge" height="30" alt="dynamodb logo"  />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-F2C307?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoft sql server logo"  />
+</div>
+<br>
 
 📲 Mobile Development
 <div style="display: flex; flex-direction: column;">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="30" alt="android logo"  />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="30" alt="androidstudio logo"  />
+  <img src="https://img.shields.io/badge/Android Studio-184951?logo=androidstudio&logoColor=white&style=for-the-badge" height="30" alt="androidstudio logo"  />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000EE0?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  />
 </div>
 <br>
 
@@ -132,7 +142,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tableau-A2E811?style=for-the-badge&logo=tableau&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="photoshop logo"  />
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="30" alt="premierepro logo"  />
-  <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="30" alt="inkscape logo"  />
+  <img src="https://img.shields.io/badge/Inkscape-0AA1E0?logo=inkscape&logoColor=white&style=for-the-badge" height="30" alt="inkscape logo"  />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="illustrator logo"  />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
